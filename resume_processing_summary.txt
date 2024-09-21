@@ -1,0 +1,173 @@
+
+Resume: Rencata_AABBAS_20240508132225.docx
+Total Tokens:  589
+Personal Information:
+ A. ABBAS 
+ Email Id: - mhdabbas2930@gmail.com 
+ Contact: - +91 9962078071
+Time taken to generate response: 5.1395 seconds
+
+==================================================
+
+
+Resume: Rencata_AarthiRajendran_20240513080748.docx
+Total Tokens:  1007
+Personal Information: Aarthi Rajendran – Web Developer 
+Email: A arthiyuvi@gmail.com
+Phone Number: +91 -7200749779 
+Location: Chennai
+Time taken to generate response: 7.3585 seconds
+
+==================================================
+
+
+Resume: Rencata_ABHISHEKSHANKAR_20240513081103.docx
+Total Tokens:  1421
+Personal Information:
+Abhishek Shankar
+Current Location:-Hyderabad, India 
+LinkedIn profile https://in.linkedin.com/in/shankar-abhishek-2872b418
+Time taken to generate response: 11.3884 seconds
+
+==================================================
+
+
+Total Tokens:  1303
+Resume: Rencata_AbinayaArulmohan_20240507123159.pdf
+Personal Information: 
+abishakshi1496@gmail.com
+ +91 8667256871
+Time taken to generate response: 8.5189 seconds
+==================================================
+
+
+Resume: Rencata_ABIRAMIN_20240509114926.docx
+Personal Information: ABIRAMI N 
+Email : abiramica1996@gmail.com 
+Phone: +91 8220423611 
+Address: 368, SCHOOL STREET,PUDHUMALLAVADI,TIRUVANNAMALAI
+Time taken to generate response: 7.0140 seconds
+
+==================================================
+
+
+Resume: Rencata_ACHUDHAN_20240509115030 copy.pdf
+Personal Information: 9360593077
+ 3achudhan@gmail.com
+Time taken to generate response: 3.6000 seconds
+
+
+
+==================================================
+
+
+Resume: Rencata_AKASHA_20240509044900.pdf
+Personal Information: AKASH A 
+SENIOR SYSTEMS ENGINEER 
+PROFILE Full Stack developer with over 2 years of experience in designing and creating UI pages in Angular
+Time taken to generate response: 6.5985 seconds
+
+==================================================
+
+
+Resume: Rencata_VijayS_20240509015645.pdf
+Personal Information: 
+Vijay S 
+sijaysekar145@gmail.com 
+9080119228 
+No 10 Kamaraja nagar, Periyakkupam Thiruvallur, TAMILNADU
+Time taken to generate response: 8.0872 seconds
+
+==================================================
+
+
+Resume: Rencata_VimalKumar_20240513121124.docx
+Personal Information: Date of birth: 23rd Sep 1996 Gender: Male Marital Status: Single
+Time taken to generate response: 5.5363 seconds
+
+==================================================
+
+Time taken to generate response: 6.3650 seconds
+Resume: Rencata_VINODHRAJENDRAN_20240509111318.docx
+Personal Information: nternet>
+
+==================================================
+
+
+Resume: Rencata_VinodKumarDammalapati_20240508134048.docx
+Personal Information: 
+Vinod Kumar
+ Dammalapati 
+ Email: vinodchari@ymail.com
+  Mobile: +91-9677261868
+Time taken to generate response: 11.0832 seconds
+
+==================================================
+
+
+Resume: Rencata_Vinothkumar_20240513121356.pdf
+Personal Information:
+ Vinothkumar 
+ # 1, Arunagiriyar Street, Kolapakkam,
+  Chennai – 100 028.
+   +91 9597863967 
+   techvinothkumar@gmail.com
+Time taken to generate response: 16.6194 seconds
+
+==================================================
+
+
+Resume: Rencata_VISHNUPRASADSARAVANAN_20240509024457.pdf
+Personal Information:
+ Vishnuprashad Saravanan 
+ Chennai, Tamil Nadu, India |
+  Mobile: +919677068168 |
+   Email ID: sadevika.saravanan@gmail.com
+Time taken to generate response: 10.2157 seconds
+==================================================
+
+Time taken to generate response: 8.6758 seconds
+Resume: Rencata_VivekanandanRagupathy_20240509002854.docx
+Personal Information: VivekanandanRagupathy No.6, Gomathipuram, 4th Cross Street, Thiruninravur, Chennai – 602 024. Ph.no:+91 6383222819/Email:viveki24u@gmail.com
+
+==================================================
+
+Time taken to generate response: 10.1028 seconds
+Resume: Rencata_VSudheerKumar_20240509003003.docx
+Personal Information: V Sudheer Kumar Email: vsudheer619@gmail.com
+
+==================================================
+
+Time taken to generate response: 12.4051 seconds
+Resume: Rencata_YaminiPriyaDhanasekaran_20240509003213.docx
+Personal Information: Phone Number +91 9176390319 email id is yamini.rmd@gmail.com
+
+==================================================
+
+Time taken to generate response: 7.1773 seconds
+Resume: Rencata_YVINODKUMAR_20240513121805.pdf
+Personal Information: Name, Phone Number, Email ID, and Location
+
+==================================================
+
+Time taken to generate response: 3.2100 seconds
+Resume: Rencata_ZaithunBee_20240507122950.docx
+Personal Information: Name, Phone Number, Email ID, and Location
+
+==================================================
+
+Time taken to generate response: 8.1435 seconds
+Resume: Rencata__20240510065808.pdf
+Personal Information: SARMAN CHENNAI, TAMILNADU | 9384-6789-19 | mail2stay@gmail.com
+
+==================================================
+
+Time taken to generate response: 4.4389 seconds
+Resume: Rencata__20240510065814.pdf
+Personal Information: devaprasadm92@gmail.com +91 9791157708 Kolathur, Chennai, India
+
+==================================================
+
+-----------------
+Overall Time taken to generate response: 168.5888 seconds
+-----------------

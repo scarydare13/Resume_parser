@@ -1,0 +1,215 @@
+{
+    "Overall Time": 234.6554,
+    "Resumes": [
+        {
+            "Resume Filename": "Rencata_AABBAS_20240508132225.docx",
+            "Total Tokens": 589,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "A. ABBAS, E_E_L_O, T_LOCATION = \"[\"name:'A. ABBAS'], [\"Phone number:'Extracted phone number'], ['Email address:'Extracted email'], ['Location:'Extracted location']]",
+                "Time Taken": 9.8064
+            },
+            "Processing Time": 9.8064
+        },
+        {
+            "Resume Filename": "Rencata_AarthiRajendran_20240513080748.docx",
+            "Total Tokens": 1007,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Aarthi Rajendran \u2013 Web Developer, Email: arthiyuvi@gmail.com, Phone: +91-7200749779, Location: Chennai",
+                "Time Taken": 9.7191
+            },
+            "Processing Time": 9.7191
+        },
+        {
+            "Resume Filename": "Rencata_ABHISHEKSHANKAR_20240513081103.docx",
+            "Total Tokens": 1421,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "\"Name\": \"Extracted name,\" \"Phone Number\": \"Extracted phone number,\" \"Email ID\": \"Extracted email,\" \"Location\": \"Extracted location\"",
+                "Time Taken": 14.2852
+            },
+            "Processing Time": 14.2852
+        },
+        {
+            "Resume Filename": "Rencata_AbinayaArulmohan_20240507123159.pdf",
+            "Total Tokens": 1342,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Abinaya Arulmohan, PhoneNumber, EmailNumber, Location",
+                "Time Taken": 9.4138
+            },
+            "Processing Time": 9.4138
+        },
+        {
+            "Resume Filename": "Rencata_ABIRAMIN_20240509114926.docx",
+            "Total Tokens": 342,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "\"Name\": \"Extracted Name\",  \"Phone Number\": \"Extracted Phone Number\",  \"Email ID\": \"Extracted Email\",  \"Location\": \"Extracted Location\"",
+                "Time Taken": 6.4216
+            },
+            "Processing Time": 6.4216
+        },
+        {
+            "Resume Filename": "Rencata_ACHUDHAN_20240509115030 copy.pdf",
+            "Total Tokens": 360,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Thechanan (resume): Name, Email, Phone, Location",
+                "Time Taken": 3.0828
+            },
+            "Processing Time": 3.0828
+        },
+        {
+            "Resume Filename": "Rencata_ACHUDHAN_20240509115030.pdf",
+            "Total Tokens": 360,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "['ACHUDHAN', 'NAME', 'ACHUDHAN', 'Phone Number', 'Extracted Phone Number', 'Email ID', 'ACHUDHAN']",
+                "Time Taken": 6.2049
+            },
+            "Processing Time": 6.2049
+        },
+        {
+            "Resume Filename": "Rencata_AKASHA_20240509044900.pdf",
+            "Total Tokens": 556,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "AKASH_A SENIOR_SYSTEMS_ENGINEER CONTACT 97862 33883 akashayyappan@outlook.com Madurai, Tamil Nadu, JSON_TEXT_SENT: \"name\": \"Extracted Name\", \"Phone Number\": \"Extracted Phone Number\", \"Email ID\": \"Extracted Email\", \"Location\": \"Extracted Location\"",
+                "Time Taken": 15.7062
+            },
+            "Processing Time": 15.7062
+        },
+        {
+            "Resume Filename": "Rencata_VijayS_20240509015645.pdf",
+            "Total Tokens": 682,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "\"Name\": \"Extracted Name\", \"Phone Number\": \"Extracted Phone Number\", \"Email ID\": \"Extracted Email\", \"Location\": \"Extracted Location\"",
+                "Time Taken": 7.5345
+            },
+            "Processing Time": 7.5345
+        },
+        {
+            "Resume Filename": "Rencata_VimalKumar_20240513121124.docx",
+            "Total Tokens": 838,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name[Vimal Kumar.R], PhoneNumber[+91 8122968465/ 7010689400], EmailNumber[ravanpanjali7@gmail.com], Location[Chanduchulai]",
+                "Time Taken": 9.6782
+            },
+            "Processing Time": 9.6782
+        },
+        {
+            "Resume Filename": "Rencata_VINODHRAJENDRAN_20240509111318.docx",
+            "Total Tokens": 1244,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name: \"Vinodh Rajendran\" Email: vidho@flex.com Location: Chennai",
+                "Time Taken": 11.304
+            },
+            "Processing Time": 11.304
+        },
+        {
+            "Resume Filename": "Rencata_VinodKumarDammalapati_20240508134048.docx",
+            "Total Tokens": 1482,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name: \"VinodKumar Dammalapati\", Phone: \"949679464\", Email: \"vinodchari@ymail.com\", Location: \"United States\"",
+                "Time Taken": 15.7775
+            },
+            "Processing Time": 15.7775
+        },
+        {
+            "Resume Filename": "Rencata_Vinothkumar_20240513121356.pdf",
+            "Total Tokens": 1878,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name = \"Vinothkumar\"; PhoneNumber = \"9195786967\"; Email ID = \"vco.mit.nadu@gmail.com\"; Location = \"Vijayakulam\"",
+                "Time Taken": 23.6397
+            },
+            "Processing Time": 23.6397
+        },
+        {
+            "Resume Filename": "Rencata_VISHNUPRASADSARAVANAN_20240509024457.pdf",
+            "Total Tokens": 1229,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Vishnupravad Saravanan, name, phone, email, location",
+                "Time Taken": 10.4324
+            },
+            "Processing Time": 10.4324
+        },
+        {
+            "Resume Filename": "Rencata_VivekanandanRagupathy_20240509002854.docx",
+            "Total Tokens": 613,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "\"name\":\"VivekanandanRagupathy\", \"phone number\":\"extracted phone number\", \"email\":\"viveki24u@gmail.com\", \"location\":\"Extracted location\"",
+                "Time Taken": 8.1016
+            },
+            "Processing Time": 8.1016
+        },
+        {
+            "Resume Filename": "Rencata_VSudheerKumar_20240509003003.docx",
+            "Total Tokens": 1494,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name: \"V Sudheer Kumar\", Phone: +91-8309912515, Email: vsudheer619@gmail.com\", Location: \"Location\"",
+                "Time Taken": 16.0962
+            },
+            "Processing Time": 16.0962
+        },
+        {
+            "Resume Filename": "Rencata_YaminiPriyaDhanasekaran_20240509003213.docx",
+            "Total Tokens": 1611,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name = \"YaminiPriya Dhanasekaran\", PhoneNumber = \"YaminiPriya Dhanasekaran\", Email ID = \"yamini.rmd@gmail.com\", Location = \"CHENNAI, TAMILNADU, INDIA\"",
+                "Time Taken": 16.0265
+            },
+            "Processing Time": 16.0265
+        },
+        {
+            "Resume Filename": "Rencata_YVINODKUMAR_20240513121805.pdf",
+            "Total Tokens": 1308,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Y VINOD KUMAR, Phone: +91 8985414417, Email: vinodagiri865@gmail.com, Location: India",
+                "Time Taken": 14.3894
+            },
+            "Processing Time": 14.3894
+        },
+        {
+            "Resume Filename": "Rencata_ZaithunBee_20240507122950.docx",
+            "Total Tokens": 579,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "Name[1]: \"Name\", Phone[0], Email[1], Location[1]",
+                "Time Taken": 4.3645
+            },
+            "Processing Time": 4.3645
+        },
+        {
+            "Resume Filename": "Rencata__20240510065808.pdf",
+            "Total Tokens": 1121,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "['Sarman Chennai', 'Phone Number', 'Email', 'Location']",
+                "Time Taken": 8.8549
+            },
+            "Processing Time": 8.8549
+        },
+        {
+            "Resume Filename": "Rencata__20240510065814.pdf",
+            "Total Tokens": 405,
+            "Personal Information": {
+                "error": "Invalid JSON response",
+                "raw_response": "'devaprasadm92@gmail.com +91 9791157708', 'Phone Number': 'Extracted Phone Number', 'Email ID': 'Devaprasadm92@gmail.com +91 9791157708', 'Location': 'Extracted Location'",
+                "Time Taken": 10.8032
+            },
+            "Processing Time": 10.8032
+        }
+    ]
+}
